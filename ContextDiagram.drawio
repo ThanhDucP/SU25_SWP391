@@ -135,7 +135,7 @@
             <mxPoint x="430" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-44" value="Staff and&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;membe&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;r&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;feedback.&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-43" vertex="1" connectable="0">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-44" value="Staff account&lt;div&gt;&amp;nbsp;creation request&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-43" vertex="1" connectable="0">
           <mxGeometry x="0.2439" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-21" as="offset" />
           </mxGeometry>
@@ -146,9 +146,9 @@
             <mxPoint x="430" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-47" value="Customer feedback response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-45" vertex="1" connectable="0">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-47" value="Customer&amp;nbsp;&lt;div&gt;feedback response&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-45" vertex="1" connectable="0">
           <mxGeometry x="-0.359" y="3" relative="1" as="geometry">
-            <mxPoint x="46" y="24" as="offset" />
+            <mxPoint x="23" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
