@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Trang-1" id="F4sz9MKST3dTjjMEhHXN">
     <mxGraphModel dx="786" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,13 +17,7 @@
           <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFn7MSVlhM-9lN72IL1n-6" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-7" value="QR code reader" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-8" value="Medical facility" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KFn7MSVlhM-9lN72IL1n-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.69;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-1" target="KFn7MSVlhM-9lN72IL1n-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,7 +47,7 @@
             <mxPoint x="430" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-15" value="Blood donation&lt;div&gt;&amp;nbsp;registration request&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-14" vertex="1" connectable="0">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-15" value="Blood donation/request&lt;div&gt;&amp;nbsp;registration request&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-14" vertex="1" connectable="0">
           <mxGeometry x="-0.3439" y="2" relative="1" as="geometry">
             <mxPoint x="18" y="-6" as="offset" />
           </mxGeometry>
@@ -64,7 +58,7 @@
             <mxPoint x="153" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-21" value="Blood donation&amp;nbsp;&lt;div&gt;schedule information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-17" vertex="1" connectable="0">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-21" value="Blood donation/request&amp;nbsp;&lt;div&gt;schedule information&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-17" vertex="1" connectable="0">
           <mxGeometry x="0.0885" y="-2" relative="1" as="geometry">
             <mxPoint x="6" y="-2" as="offset" />
           </mxGeometry>
@@ -124,51 +118,29 @@
             <mxPoint x="52" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.781;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-8" target="KFn7MSVlhM-9lN72IL1n-1" edge="1">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="280" as="sourcePoint" />
-            <mxPoint x="430" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-35" value="blood draw request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-34" vertex="1" connectable="0">
-          <mxGeometry x="-0.1716" relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.417;exitY=-0.011;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-7" target="KFn7MSVlhM-9lN72IL1n-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="280" as="sourcePoint" />
-            <mxPoint x="430" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-39" value="QR Code Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-37" vertex="1" connectable="0">
-          <mxGeometry x="0.0457" y="3" relative="1" as="geometry">
-            <mxPoint x="3" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.081;exitY=0.811;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-1" target="KFn7MSVlhM-9lN72IL1n-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="280" as="sourcePoint" />
-            <mxPoint x="430" y="230" as="targetPoint" />
+            <mxPoint x="330" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KFn7MSVlhM-9lN72IL1n-42" value="Reports and statistics&lt;div&gt;&amp;nbsp;on revenue and users.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-41" vertex="1" connectable="0">
           <mxGeometry x="0.2832" y="-4" relative="1" as="geometry">
-            <mxPoint x="24" y="-9" as="offset" />
+            <mxPoint x="-12" y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.262;exitY=0.944;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-1" target="KFn7MSVlhM-9lN72IL1n-6" edge="1">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.428;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-1" target="KFn7MSVlhM-9lN72IL1n-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="280" as="sourcePoint" />
             <mxPoint x="430" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-44" value="Staff and&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;member feedback.&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-43" vertex="1" connectable="0">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-44" value="Staff and&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;membe&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;r&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;feedback.&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-43" vertex="1" connectable="0">
           <mxGeometry x="0.2439" y="-2" relative="1" as="geometry">
-            <mxPoint x="3" y="-3" as="offset" />
+            <mxPoint x="1" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFn7MSVlhM-9lN72IL1n-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.457;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-6" target="KFn7MSVlhM-9lN72IL1n-1" edge="1">
+        <mxCell id="KFn7MSVlhM-9lN72IL1n-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="KFn7MSVlhM-9lN72IL1n-6" target="KFn7MSVlhM-9lN72IL1n-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="280" as="sourcePoint" />
             <mxPoint x="430" y="230" as="targetPoint" />
@@ -176,7 +148,7 @@
         </mxCell>
         <mxCell id="KFn7MSVlhM-9lN72IL1n-47" value="Customer feedback response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KFn7MSVlhM-9lN72IL1n-45" vertex="1" connectable="0">
           <mxGeometry x="-0.359" y="3" relative="1" as="geometry">
-            <mxPoint x="26" y="12" as="offset" />
+            <mxPoint x="46" y="24" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
